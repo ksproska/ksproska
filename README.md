@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![counter](https://enfkcailmnewlbf.m.pipedream.net)
-
+If you found this account as a student from PWR, then you're in luck. Some repositories that you might wanna check out are:
+- https://github.com/ksproska/distributedComputingSystems_java_Csharp
+- https://github.com/ksproska/net_entity_framework
+- https://github.com/ksproska/dataWarehouse_sql_ssis
+- https://github.com/ksproska/artificialInteligence_java_python
 <!--
 **ksproska/ksproska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
