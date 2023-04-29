@@ -16,7 +16,7 @@ Some repositories that you might wanna check out are:
 | Projektowanie aplikacji multimedialnych    | 3    | 6    | [roomDesign_android](https://github.com/ksproska/roomDesign_android), [puzzleGame_android](https://github.com/ksproska/puzzleGame_android)                                                     |
 | Sieci neuronowe                            | 4    | 7    | [sieci_neuronowe](https://github.com/ksproska/sieci_neuronowe)                                                                                                                                 |
 
-Use the provided knowledge responsibly, and remember, only the [PWRful](https://github.com/WitoldFracek/OnlyPWRfullSurvive_Unity2D) and/or resourceful :wink: survive this goddam Uni. \
+Use the provided knowledge responsibly, and remember, [only the PWRful](https://github.com/WitoldFracek/OnlyPWRfullSurvive_Unity2D) and/or resourceful :wink: survive this goddam Uni. \
 Good luck to you!
 
 <!--
