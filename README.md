@@ -1,10 +1,14 @@
 ### Hi there 👋
-![counter](https://enfkcailmnewlbf.m.pipedream.net)
+![counter](https://enfkcailmnewlbf.m.pipedream.net) \
 If you found this account as a student from PWR, then you're in luck. Some repositories that you might wanna check out are:
-- https://github.com/ksproska/distributedComputingSystems_java_Csharp
-- https://github.com/ksproska/net_entity_framework
-- https://github.com/ksproska/dataWarehouse_sql_ssis
-- https://github.com/ksproska/artificialInteligence_java_python
+
+| Subject (in polish)                        | Year | Term | Repository                                                                                                     |
+|--------------------------------------------|------|------|----------------------------------------------------------------------------------------------------------------|
+| Aplikacje webowe na platformie .NET        | 3    | 5    | [net_entity_framework](https://github.com/ksproska/net_entity_framework)                                       |
+| Rozproszone systemy informatyczne          | 3    | 6    | [distributedComputingSystems_java_Csharp](https://github.com/ksproska/distributedComputingSystems_java_Csharp) |
+| Hurtownie danych                           | 3    | 6    | [dataWarehouse_sql_ssis](https://github.com/ksproska/dataWarehouse_sql_ssis)                                   |
+| Sztuczna inteligencja i inżycnieria wiedzy | 3    | 6    | [artificialInteligence_java_python](https://github.com/ksproska/artificialInteligence_java_python)             |
+
 <!--
 **ksproska/ksproska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
