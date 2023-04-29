@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![counter](https://enfkcailmnewlbf.m.pipedream.net) \
-If you found this account as a student from PWR, then you're in luck. Some repositories that you might wanna check out are:
+If you found this account as a student of **Applied computer science** (_pol. [Informatyka Stosowana](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-stosowana/)_) from **[Wrocław University of Science and Technology](https://pwr.edu.pl/en/)** (_pol. [Politechnika Wrocławska](https://pwr.edu.pl/)_), then you're in luck. \
+Some repositories that you might wanna check out are:
 
 | Subject (in polish)                        | Year | Term | Repository                                                                                                                                                                                     |
 |--------------------------------------------|------|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,6 +14,9 @@ If you found this account as a student from PWR, then you're in luck. Some repos
 | Sztuczna inteligencja i inżycnieria wiedzy | 3    | 6    | [artificialInteligence_java_python](https://github.com/ksproska/artificialInteligence_java_python)                                                                                             |
 | Programowanie gier                         | 3    | 6    | [variousGames_unity_csharp](https://github.com/ksproska/variousGames_unity_csharp), [OnlyPWRfullSurvive_Unity2D](https://github.com/WitoldFracek/OnlyPWRfullSurvive_Unity2D)                   |
 | Projektowanie aplikacji multimedialnych    | 3    | 6    | [roomDesign_android](https://github.com/ksproska/roomDesign_android), [puzzleGame_android](https://github.com/ksproska/puzzleGame_android)                                                     |
+| Sieci neuronowe                            | 4    | 7    | [sieci_neuronowe](https://github.com/ksproska/sieci_neuronowe)                                                                                                                                 |
+
+Use the provided knowledge responsibly, and remember, only the [PWRful](https://github.com/WitoldFracek/OnlyPWRfullSurvive_Unity2D) and/or resourceful :wink: survive this goddam Uni. Good luck to you!
 
 <!--
 **ksproska/ksproska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
