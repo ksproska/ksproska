@@ -6,7 +6,7 @@
 ## Employment
 Currently working as a **Junior Developer** at:
 
-![](https://www.nokia.com/themes/custom/onenokia_reskin/logo.svg)
+![](logo.svg)
 
 #### Commercial experience in:
 
