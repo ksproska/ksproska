@@ -1,5 +1,41 @@
-### Hi there 👋
-![counter](https://enfkcailmnewlbf.m.pipedream.net) \
+# About me 
+![counter](https://enfkcailmnewlbf.m.pipedream.net)
+
+---
+
+## Employment
+Currently working as a **Junior Developer** at:
+
+![](https://www.nokia.com/themes/custom/onenokia_reskin/logo.svg)
+
+#### Commercial experience in:
+
+![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![]()
+
+---
+
+## Education
+- **Bachelor's degree** in **Applied computer science** at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/)** (_pol. [Politechnika Wrocławska](https://pwr.edu.pl/)_).
+- Still studying **Applied computer science** (second degree studies) - final year
+---
+
 If you found this account as a student of **Applied computer science** (_pol. [Informatyka Stosowana](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-stosowana/)_) from **[Wrocław University of Science and Technology](https://pwr.edu.pl/en/)** (_pol. [Politechnika Wrocławska](https://pwr.edu.pl/)_), then you're in luck. \
 Some repositories that you might wanna check out are:
 
