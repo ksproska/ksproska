@@ -1,5 +1,5 @@
 ## Employment
-Currently working as a **Junior Developer** at:
+Currently working as a **Software Developer** at:
 
 ![](logo.svg)
 
@@ -27,8 +27,7 @@ Currently working as a **Junior Developer** at:
 ---
 
 ## Education
-- **Bachelor's degree** in **Applied computer science** at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/)** (_pol. [Politechnika Wrocławska](https://pwr.edu.pl/)_).
-- Still studying **Applied computer science** (second degree studies) - final year
+- **Master's degree** & **Bachelor's degree** in **Applied computer science** at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/)** (_pol. [Politechnika Wrocławska](https://pwr.edu.pl/)_).
 
 Other technologies and languages, familiarized with during studies:
 
